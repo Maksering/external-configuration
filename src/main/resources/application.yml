@@ -1,0 +1,9 @@
+server:
+  port: 8888
+spring:
+  application:
+    name: external-configuration
+  cloud:
+    config:
+      server:
+        gi
