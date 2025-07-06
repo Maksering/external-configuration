@@ -6,4 +6,6 @@ spring:
   cloud:
     config:
       server:
-        gi
+        git:
+          uri: https://github.com/Maksering/java-configs.git
+          search-paths: /config-files/
