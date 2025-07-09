@@ -7,5 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Maksering/java-configs.git
-          search-paths: /config-files/
+          uri:
+          username:
+          password:
+          search-paths:
